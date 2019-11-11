@@ -1,0 +1,18 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="me_square.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+*Hi there! I’m a dedicated data scientist and analyst exploring customer care, website, and user experience data for Asurion Inc. by day. I am a helpful math, science, and technology tutor at night.*
+
+I’m one of those “data geeks” who loves working with applied math, formulas, data sets, astronomy, physics, and all kinds of work computers and technology. I live and breathe in a world full of computers, SQL, R, Microsoft Excel and Office, and any smart phones or tablets I can get my hands on.
+
+I love working with people, that’s why I enjoy tutoring and sharing that knowledge with a wide variety of students and adult learners.
+
+I am a full-time data analyst and researcher working for Asurion Inc. a global leader in cell phone insurance and protection services, extended warranties, and provider of technical support for a broad range of consumer devices and technology services.
+
+I am a certified usability analyst and a web data analyst experienced using Adobe/Omniture SiteCatalyst, Google Analytics, and Webtrends. And I have over 30 years experience as a researcher in applied human factors psychology.
+
+I have some wonderful children who are busy developing their own careers, I am proud of my beautiful wife Eva Smith, Realtor, and we love spending time in the middle Tennesse and Nashville area with our sweet but attention-demanding boxer/pitbull “Bella”.
