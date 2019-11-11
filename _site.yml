@@ -3,13 +3,13 @@ output_dir: "."
 navbar:
   title: "Paul G. Smith"
   left:
-    - text: "Writing"
+    - text: "R Programming"
       href: research.html
-    - text: "Speaking"
+    - text: "Other Projects"
       href: talks.html
-    - text: "Programming"
+    - text: "Tutoring"
       href: software.html
-    - text: "Teaching"
+    - text: "Books"
       href: teaching.html
   right:
     - icon: fa-envelope fa-lg
