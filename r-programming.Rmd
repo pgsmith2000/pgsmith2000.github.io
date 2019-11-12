@@ -1,0 +1,11 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+I love programming in R. I know python too, but I enjoy R a bit more, because I tend to think like a statistician. And R matches that a little better. Here are a few of the portfolio (demonstration) projects I am working on:
+
+- [Revisiting the Cross-Sectional Association Between Missing Teeth and Cardiovascular Disease: BRFSS 2018](https://pgsmith2000.github.io/cvd-and-teeth/)
+
+
+

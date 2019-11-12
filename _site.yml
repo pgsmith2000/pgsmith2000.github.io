@@ -4,13 +4,13 @@ navbar:
   title: "Paul G. Smith"
   left:
     - text: "R Programming"
-      href: research.html
+      href: r-programming.html
     - text: "Other Projects"
-      href: talks.html
+      href: other-projects.html
     - text: "Tutoring"
-      href: software.html
+      href: tutoring.html
     - text: "Books"
-      href: teaching.html
+      href: books.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
