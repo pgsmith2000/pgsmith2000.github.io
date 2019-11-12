@@ -7,5 +7,8 @@ I love programming in R. I know python too, but I enjoy R a bit more, because I 
 
 - [Revisiting the Cross-Sectional Association Between Missing Teeth and Cardiovascular Disease: BRFSS 2018](https://pgsmith2000.github.io/cvd-and-teeth/)
 
+- [Sample Descriptive Analysis Using Publicly Available Healthcare Data (BRFSS 2018 Data)](https://github.com/pgsmith2000/BRFSS/)
 
+- [Daily information summary of economic indicators available from FRED, FRB St. Louis](https://github.com/pgsmith2000/dailyecon/)
 
+- [Analyses with Data from Biostatistics With R by Babak Shahbaba](https://github.com/pgsmith2000/biostatistics/)
